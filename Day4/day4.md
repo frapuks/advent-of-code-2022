@@ -57,7 +57,7 @@ Cet exemple de liste utilise des ID de section à un chiffre pour faciliter le d
 
 Certaines paires ont remarqué que l'une de leurs missions contient entièrement l'autre. Par exemple, 2-8contient entièrement 3-7, et 6-6est entièrement contenu par 4-6. Dans les paires où une tâche contient entièrement l'autre, un elfe de la paire nettoierait exclusivement les sections que son partenaire nettoiera déjà, donc celles-ci semblent être celles qui ont le plus besoin d'être reconsidérées. Dans cet exemple, il existe de 2telles paires.
 
-## --- Deuxième partie ---
+## --- Première partie ---
 
 Dans combien de paires d'affectations une plage contient-elle entièrement l'autre ?
 
